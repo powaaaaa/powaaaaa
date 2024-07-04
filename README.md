@@ -1,4 +1,4 @@
-## <div align="center"> Hi there 👋 I'm powaaaaa.
+## <div align="center"> Hi there 👋　I'm powwa.
 
 <!--
 **powaaaaa/powaaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   - 🐦 [x](https://x.com/y0__01)
   - 💙 Portfolio(under construction)
 
-### ⚡Stats
+### ⚡Stats 
 
 <p align="center">
   <img alt="languages by repo" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=powaaaaa&theme=swift" align="center" />
