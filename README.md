@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=powaaaaa&show_icons=true&theme=catppuccin_latte)
 
 <p align="left">
-  <img alt="languages by repo" height="180px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=powaaaaa&theme=nord_bright"/>
-  <img alt="summary" height="180px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=powaaaaa&theme=nord_bright"/>
+  <img alt="languages by repo" height="170px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=powaaaaa&theme=nord_bright"/>
+  <img alt="summary" height="170px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=powaaaaa&theme=nord_bright"/>
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=powaaaaa&theme=nord_bright)](https://github.com/powaaaaa/github-profile-trophy)
