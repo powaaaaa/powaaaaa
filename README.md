@@ -15,18 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left">
-  <a href="https://github.com/powaaaaa">
-    <img height="20" src="https://komarev.com/ghpvc/?username=powaaaaa" />
-  </a>
-  <a href="https://github.com/powaaaaa">
-    <img height="20" src="https://img.shields.io/github/followers/powaaaaa?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="http://qiita.com/powaaaaa">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/powaaaaa/posts.svg" />
-  </a>
-  <a href="http://qiita.com/powaaaaa">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/powaaaaa/contributions.svg" />
-  </a>
-</p>
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=powaaaaa&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=powaaaaa&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=powaaaaa&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=powaaaaa&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=powaaaaa&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=powaaaaa&theme=gruvbox)
 
