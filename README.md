@@ -20,7 +20,5 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=powaaaaa&theme=gruvbox)
 ![](https://github-readme-stats.vercel.app/api?username=powaaaaa&show_icons=true&theme=gruvbox)
 
-## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=powaaaaa&theme=gruvbox)
-[![trophy](https://github-profile-trophy.vercel.app/?username=powaaaaa)](https://github.com/powaaaaa/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=powaaaaatheme=gruvbox)](https://github.com/powaaaaa/github-profile-trophy)
 
