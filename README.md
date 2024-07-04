@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=powaaaaa&column=-1&no-frame=true&margin-w=8&theme=oldie)](https://github.com/powaaaaa/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=powaaaaa&column=-1&no-frame=true&margin-w=8&theme=oldie)
 
 <p style="text-align: right;">
     <img src="https://github-readme-stats.vercel.app/api?username=powaaaaa&show_icons=true&theme=swift&hide_border=true" align="right" />
-</p>  
+</p>
 
 - 🎓 I'm studying in Kyusyu Institute of Technology.
 - 🔬 Keywords: PSP, Process
@@ -31,13 +31,12 @@ Here are some ideas to get you started:
 ### ⚡Stats 
 
 <p align="center">
-  <img alt="languages by repo" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=powaaaaa&theme=swift" align="center" />
-  <img alt="summary" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=powaaaaa&theme=swift" align="center" />
+    <img alt="languages by repo" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=powaaaaa&theme=swift" align="center" />
+    <img alt="summary" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=powaaaaa&theme=swift" align="center" />
 </p>
-　 
 
 <br />
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=powaaaaa" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=powaaaaa" align="center" />
 </p>  
