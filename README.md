@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=powaaaaa&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=powaaaaa&theme=gruvbox)
-![](https://github-readme-stats.vercel.app/api?username=powaaaaa&show_icons=true&theme=gruvbox)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=powaaaaa&show_icons=true&theme=catppuccin_latte)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=powaaaaatheme=gruvbox)](https://github.com/powaaaaa/github-profile-trophy)
+<p align="left">
+  <img alt="languages by repo" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=powaaaaa&theme=nord_bright"/>
+  <img alt="summary" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=powaaaaa&theme=nord_bright"/>
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=powaaaaa&theme=nord_bright)](https://github.com/powaaaaa/github-profile-trophy)
 
