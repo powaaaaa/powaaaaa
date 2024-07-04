@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=powaaaaa&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=powaaaaa&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=powaaaaa&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=powaaaaa&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=powaaaaa&theme=gruvbox&utcOffset=9)
+![](https://github-readme-stats.vercel.app/api?username=powaaaaa&show_icons=true&theme=gruvbox)
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=powaaaaa&theme=gruvbox)
