@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🎓 I'm studying in Kyusyu Institute of Technology.
 - 🔬 Keywords: PSP, Process
 - 💛 Favorite: Illustration🎨
-- 📫 How to reach me:
+- 🔗 Links:
   - 🐦 [x](https://x.com/y0__01)
   - 💙 Portfolio(under construction)
 
